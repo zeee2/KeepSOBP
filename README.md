@@ -2,9 +2,11 @@
 
 
 ## Learning Javascript, Really noob
+![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
+
+![](https://img.shields.io/badge/Python-begineer-blue?style=for-the-badge&logo=python)
 
 
-[![followers](https://img.shields.io/github/followers/keepsobp?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/keepsobp?tab=followers)
 
 
 # Contact
@@ -19,11 +21,6 @@
 
 
 -------------------------
-
-
-Javascript skill level
-
-![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
 
 Planning osu!lazer private server
 
