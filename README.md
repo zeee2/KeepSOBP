@@ -4,7 +4,7 @@
 ## Learning Javascript, Really noob
 ![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
 
-![](https://img.shields.io/badge/Python-begineer-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Python-beginner-blue?style=for-the-badge&logo=python)
 
 
 
