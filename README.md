@@ -31,8 +31,6 @@ Docsify based osu! skins site, [osu!skin](https://github.com/keepsobp/oskin)
 
 Update gist if new youtube video, [youtube-box](https://github.cpm/keepsobp/youtube-box)
 
-Automatic self-diagnosis self check for Korean students, [COVID-Auto_SelfCheck_Actions](https://github.com/KeepSOBP/COVID-Auto_SelfCheck_Actions)
-
 Dame dane maker, [dame](https://github.com/keepsobp/dame)
 </details>
 <details>
