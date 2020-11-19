@@ -23,11 +23,9 @@
 <details>
   <summary>repos</summary>
 
-Osu!lazer private server, [Keesu](https://github.com/osukeesu)
+Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
 
 Discord.JS music bot for korean, [Hikari](https://github.com/github.com/keepsobp/hikari)
-
-Docsify based osu! skins site, [osu!skin](https://github.com/keepsobp/oskin)
 
 Update gist if new youtube video, [youtube-box](https://github.cpm/keepsobp/youtube-box)
 
