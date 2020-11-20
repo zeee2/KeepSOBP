@@ -2,7 +2,6 @@
 
 ## Learning Javascript, Really noob
 ![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Python-beginner-blue?style=for-the-badge&logo=python)
 
 # Contact
 
@@ -24,7 +23,7 @@
 
 Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
 
-Discord.JS music bot for korean, [Hikari](https://github.com/keepsobp/hikari)
+Discord.js music bot for korean, [Hikari](https://github.com/keepsobp/hikari)
 
 Update gist if new youtube video, [youtube-box](https://github.cpm/keepsobp/youtube-box)
 
