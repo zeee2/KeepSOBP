@@ -16,31 +16,22 @@
 
 ----
 
-## Pinned Repo
+## Projects
+
+<details>
+  <summary>Repos</summary>
+
+Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=hikari)](https://github.com/keepsobp/hikari)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=blog)](https://github.com/keepsobp/blog)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=dame)](https://github.com/keepsobp/dame)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=youtube-box)](https://github.com/keepsobp/youtube-box)
 
-----
-
-## Projects
-
-<details>
-  <summary>repos</summary>
-
-Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
-
-Discord.js music bot for korean, [Hikari](https://github.com/keepsobp/hikari)
-
-Update gist if new youtube video, [youtube-box](https://github.cpm/keepsobp/youtube-box)
-
-Dame dane maker, [dame](https://github.com/keepsobp/dame)
 </details>
 <details>
   <summary>Contributed</summary>
 
-A mobile website for ExHentai, [e-hentai-view](https://github.com/IronKinoko/e-hentai-view)
-</details>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ironkinoko&repo=e-hentai-view&show_owner=true)](https://github.com/IronKinoko/e-hentai-view)
 
 </details>
