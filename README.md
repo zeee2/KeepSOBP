@@ -1,6 +1,5 @@
 # Welcome :D
 
-## Learning Javascript, Really noob
 ![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
 
 # Contact
@@ -16,7 +15,7 @@
 
 ----
 
-## Projects
+# Projects
 
 <details>
   <summary>Repos</summary>
