@@ -32,5 +32,6 @@ Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
   <summary>Contributed</summary>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ironkinoko&repo=e-hentai-view&show_owner=true)](https://github.com/IronKinoko/e-hentai-view)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=InfinityGhost&repo=TabletDriverFilters&show_owner=true)](https://github.com/InfinityGhost/TabletDriverFilters)
 
 </details>
