@@ -1,21 +1,37 @@
 ![](https://cdn.statically.io/og/%7B%F0%9F%91%8B%20Hello%20World!%20%F0%9F%8D%9E%7D.png)
 
-![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
+<h3><div align="center">현&ensp;실&ensp;을&emsp;꿈&ensp;으&ensp;로&ensp;.</div></h3>
 
-# Contact
+## Contact
 
 - keepsobp@naver.com
 
 - `Bread#2635` | [my discord server](https://discord.link/bread)
 
+---
 
+<table><tr><td valign="top" width="33%">
+
+### Backend
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table>
+
+---
+
+## Github Stats
 [![KeepSOBP's github stats](https://github-readme-stats.vercel.app/api?username=KeepSOBP&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeepSOBP&layout=compact)](https://github.com/KeepSOBP?tab=repositories)
 
 ----
 
-# Projects
+## Projects
 
 <details>
   <summary>Repos</summary>
@@ -36,5 +52,3 @@ Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
 
 </details>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wsbdalxzi045ls0ej48cueu12&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wsbdalxzi045ls0ej48cueu12&redirect=true)
