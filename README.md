@@ -1,4 +1,4 @@
-# Welcome :D
+![](https://cdn.statically.io/og/%7B%F0%9F%91%8B%20Hello%20World!%20%F0%9F%8D%9E%7D.png)
 
 ![Javascript skill level](https://img.shields.io/badge/Javascript-beginner-green?style=for-the-badge&logo=javascript)
 
