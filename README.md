@@ -35,3 +35,6 @@ Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
 [![](https://github-readme-stats.vercel.app/api/pin/?username=InfinityGhost&repo=TabletDriverFilters&show_owner=true)](https://github.com/InfinityGhost/TabletDriverFilters)
 
 </details>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wsbdalxzi045ls0ej48cueu12&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wsbdalxzi045ls0ej48cueu12&redirect=true)
