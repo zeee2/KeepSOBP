@@ -2,15 +2,14 @@
 
 <h3><div align="center">현&ensp;실&ensp;을&emsp;꿈&ensp;으&ensp;로&ensp;.</div></h3>
 
+---
+
 ## Contact
-
-- keepsobp@naver.com
-
-- `Bread#2635` | [my discord server](https://discord.link/bread)
+[Discord](https://discord.com/users/548821619661864962) | keepsobp@naver.com
 
 ---
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top">
 
 ### Backend
 <div align="center">  
