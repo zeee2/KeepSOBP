@@ -1,4 +1,4 @@
-![](https://cdn.statically.io/og/%7B%F0%9F%91%8B%20Hello%20World!%20%F0%9F%8D%9E%7D.png)
+![](https://cdn.statically.io/og/theme=dark/%7B%F0%9F%91%8B%20Hello%20World!%20%F0%9F%8D%9E%7D.png)
 
 <h3><div align="center">현&ensp;실&ensp;을&emsp;꿈&ensp;으&ensp;로&ensp;.</div></h3>
 
@@ -46,7 +46,7 @@ Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
   <summary>Contributed</summary>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ironkinoko&repo=e-hentai-view&show_owner=true)](https://github.com/IronKinoko/e-hentai-view)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=InfinityGhost&repo=TabletDriverFilters&show_owner=true)](https://github.com/InfinityGhost/TabletDriverFilters)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=OpenTabletDriver&repo=TabletDriverFilters&show_owner=true)](https://github.com/InfinityGhost/TabletDriverFilters)
 
 </details>
 
