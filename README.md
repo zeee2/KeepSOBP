@@ -23,9 +23,9 @@
 ---
 
 ## Github Stats
-[![KeepSOBP's github stats](https://github-readme-stats.vercel.app/api?username=KeepSOBP&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![KeepSOBP's github stats](https://github-readme-stats.vercel.app/api?username=KeepSOBP&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeepSOBP&layout=compact)](https://github.com/KeepSOBP?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeepSOBP&layout=compact&theme=nightowl)](https://github.com/KeepSOBP?tab=repositories)
 
 ----
 
@@ -36,17 +36,17 @@
 
 Planned | ~~Osu!lazer private server, [Keesu](https://github.com/osukeesu)~~
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=hikari)](https://github.com/keepsobp/hikari)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=blog)](https://github.com/keepsobp/blog)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=dame)](https://github.com/keepsobp/dame)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=youtube-box)](https://github.com/keepsobp/youtube-box)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=hikari&theme=nightowl)](https://github.com/keepsobp/hikari)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=blog&theme=nightowl)](https://github.com/keepsobp/blog)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=dame&theme=nightowl)](https://github.com/keepsobp/dame)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=keepsobp&repo=youtube-box&theme=nightowl)](https://github.com/keepsobp/youtube-box)
 
 </details>
 <details>
   <summary>Contributed</summary>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ironkinoko&repo=e-hentai-view&show_owner=true)](https://github.com/IronKinoko/e-hentai-view)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=OpenTabletDriver&repo=TabletDriverFilters&show_owner=true)](https://github.com/InfinityGhost/TabletDriverFilters)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ironkinoko&repo=e-hentai-view&show_owner=true&theme=nightowl)](https://github.com/IronKinoko/e-hentai-view)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=OpenTabletDriver&repo=TabletDriverFilters&show_owner=true&theme=nightowl)](https://github.com/InfinityGhost/TabletDriverFilters)
 
 </details>
 
